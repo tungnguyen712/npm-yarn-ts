@@ -1,0 +1,9 @@
+{
+  "name": "npm-yarn-ts",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "js-yaml": "^3.13.0",
+    "lodash": "^4.17.0"
+  }
+}
